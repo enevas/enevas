@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eva</h1>
+<h1 align="center">Hello, I'm Eva</h1>
 <h3 align="center">An exploratory junior data scientist with strategy consulting background</h3>
 
 - 🌱 I’m currently learning **Python, Machine Learning & Deep Learning**
